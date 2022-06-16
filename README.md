@@ -62,8 +62,6 @@ O navegador vai abrir com o projeto.
 
 O projeto conta com o [ESLint](https://eslint.org/) e [Prettier](https://prettier.io/) para checar a qualidade e formatação do código.
 
-O código é checado antes de realizar um commit (necessário instalar o [pre-commit](#instalando-o-pre-commit)) e na [CI](https://docs.gitlab.com/ee/ci/) do gitlab configurada no arquivo [.gitlab-ci.yml](.gitlab-ci.yml).
-
 ### Mock Data
 
 Quando em ambiente de desenvolvimento o projeto irá rodar com dados mockados, ou seja, como não haverá backend será criada uma simulação dele. A cada chamada na API, estes dados retornam como em uma requisição HTTP normal, apenas para tornar mais fácil o desenvolvimento.
