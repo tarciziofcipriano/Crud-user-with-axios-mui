@@ -1,12 +1,6 @@
 {
-  "short_name": "Arcsys",
-  "name": "Arcsys Web App",
-  "icons": [
-    {
-      "src": "logo.png",
-      "sizes": "48x48 72x72 96x96 128x128 256x256"
-    }
-  ],
+  "short_name": "Crud user",
+  "name": "Crud user",
   "start_url": ".",
   "display": "fullscreen",
   "orientation": "any"
