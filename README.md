@@ -28,14 +28,6 @@ yarn install
 npm install
 ```
 
-> Este passo só precisa ser feito na primeira vez que rodar o projeto
-
-### Instalando submodulo
-
-```bash
-git submodule update --init --recursive
-```
-
 ## Rodando o projeto em modo desenvolvedor
 
 ### Preparando a IDE
